@@ -9,3 +9,5 @@ A note-taking app that allows users to create, edit, and manage notes in Markdow
 1. Clone the repository: `git clone https://github.com/markdown-notes-app/markdown-notes-app.git`
 2. Install dependencies: `pip install -r requirements.txt`
 3. Create a new file named `.env` and add the following configuration:
+
+Additional details added.
